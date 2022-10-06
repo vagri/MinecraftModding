@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "#": {
+      "item": "thecraft:anuncrystal"
+    },
+    "Y": {
+      "item": "thecraft:endsteelingot"
+    }
+  },
+  "pattern": [
+    "XYX",
+    "Y#Y",
+    "XYX"
+  ],
+  "result": {
+    "item": "thecraft:enderniumingot"
+  }
+}

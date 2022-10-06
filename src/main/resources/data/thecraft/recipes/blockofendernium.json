@@ -1,0 +1,16 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "thecraft:enderniumingot"
+    }
+  },
+  "result": {
+    "item": "thecraft:blockofendernium"
+  }
+}

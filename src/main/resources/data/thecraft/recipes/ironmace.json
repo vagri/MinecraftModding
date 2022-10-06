@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "thecraft:pole"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XXX",
+    " # "
+  ],
+  "result": {
+    "item": "thecraft:ironmace"
+  }
+}

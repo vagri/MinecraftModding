@@ -1,0 +1,28 @@
+{
+  "parent" : "item/handheld",
+  "textures": {
+    "layer0" : "thecraft:item/stonespear"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [20,-90,55],
+      "translation": [0,4.0,3],
+      "scale": [1.6,1.6,0.7]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [20,90,-55],
+      "translation": [0,4.0,3],
+      "scale": [1.6,1.6,0.7]
+    },
+    "firstperson_righthand": {
+      "rotation": [-80,-90,25],
+      "translation": [1.13,3.2,1.13],
+      "scale": [1.2,1.2,0.7]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-80,90,-25],
+      "translation": [1.13,3.2,1.13],
+      "scale": [1.2,1.2,0.7]
+    }
+  }
+}

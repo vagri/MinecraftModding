@@ -1,0 +1,52 @@
+{
+  "item.minecraft.stone_axe" :"Stone Hatchet",
+  "item.minecraft.iron_axe" :"Iron Hatchet",
+  "item.minecraft.golden_axe" :"Golden Hatchet",
+  "item.minecraft.diamond_axe" :"Diamond Hatchet",
+  "item.minecraft.netherite_axe" :"Netherite Hatchet",
+
+  "item.thecraft.endsteelingot" : "End Steel Ingot",
+  "item.thecraft.endstonehandle" : "End Stone Handle",
+  "item.thecraft.rawendsteel" : "Raw End Steel",
+  "item.thecraft.enderniumingot" : "Endernium Ingot",
+  "item.thecraft.anuncrystalshard" : "Anun Crystal Shard",
+  "item.thecraft.anuncrystal" : "Anun Crystal",
+  "item.thecraft.branch" : "Branch",
+  "item.thecraft.pole" : "Pole",
+  "item.thecraft.hardleather" : "Hard Leather",
+  "item.thecraft.rock" : "Rock",
+  "item.thecraft.steelplate" : "Steel Plate",
+
+  "item.thecraft.woodenclub" :"Wooden Club",
+  "item.thecraft.stonedagger" :"Stone Dagger",
+  "item.thecraft.stonespear" :"Stone Spear",
+  "item.thecraft.stoneclub" :"Stone Club",
+  "item.thecraft.irondagger" :"Iron Dagger",
+  "item.thecraft.ironmace" :"Iron Mace",
+  "item.thecraft.ironlongsword" :"Iron Longsword",
+  "item.thecraft.ironbattleaxe" :"Iron Battle Axe",
+  "item.thecraft.ironwarhammer" :"Iron Warhammer",
+  "item.thecraft.ironspear" :"Iron Spear",
+  "item.thecraft.ironhalberd" :"Iron Halberd",
+  "item.thecraft.endsteelpickaxe" :"End Steel Pickaxe",
+  "item.thecraft.endsteelhatchet" :"End Steel Hatchet",
+  "item.thecraft.endsteelshovel" :"End Steel Shovel",
+  "item.thecraft.endsteelhoe" :"End Steel Hoe",
+
+  "item.thecraft.shortbow" :"Shortbow",
+
+
+  "block.thecraft.blockofendsteel": "Block of End Steel",
+  "block.thecraft.blockofrawendsteel": "Block of Raw End Steel",
+  "block.thecraft.blockofendernium": "Block of Endernium",
+  "block.thecraft.endsteelore": "End Steel Ore",
+  "block.thecraft.anunore": "Anun Ore",
+  "block.thecraft.solidfarmland": "Solid Farmland",
+
+
+  "itemgroup.thecraft.misctab": "The Craft Misc",
+  "itemgroup.mobstab": "The Craft Mobs",
+  "itemgroup.armortab": "The Craft Armor",
+  "itemgroup.weapons_tab": "The Craft Weapons",
+  "itemgroup.blockstab": "The Craft Blocks"
+}

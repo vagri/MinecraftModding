@@ -1,0 +1,6 @@
+{
+  "parent": ":thecraft:item/branch",
+  "textures": {
+    "layer0": "thecraft:item/endsteelingot"
+  }
+}
